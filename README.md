@@ -1,2 +1,2 @@
 # CRF
-Voice Recognition using Conditional Random Fields
+Voice Recognition using Conditional Random Fields is a new research topic, instead of the much popular and established Hidden Markov Model. It is an alternative methodology used in natural language processing to predict a sequence of labels based on a given sequence of input samples. Its ability to decide the current state by taking the context into count i.e. determining the current word using the beginning and end of a sentence, makes it very powerful and accurate. This project helped me acquire an insight into the nuances of pattern recognition and machine learning.
